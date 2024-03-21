@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%2313A5DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a>
-<img src="https://startit.rs/media/3_101-pzp_front-end-dev_1200px-v2-1.png"/>
+<img src="https://media.istockphoto.com/id/1164538944/vector/woman-with-laptop-studying-or-working-concept-table-with-books-lamp-coffee-cup-vector.jpg?s=612x612&w=0&k=20&c=VhUj_AZoUnilUKdRessjsK6JQUjXCfum7RQyuzOr6_0=" />
 
 
 
